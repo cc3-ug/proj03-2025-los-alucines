@@ -1,0 +1,5 @@
+lw t0, 0(t1) 
+sw t0, 0(t1) 
+lb t0, 0(t1)
+lbu t0, 1(t1)
+sb t0, 0(t1)

@@ -1,1 +1,1 @@
-{"grade": 10, "output": "Exercise            Grade  Message\n----------------  -------  -----------------\n1. ALU                  5  passed\n2. Register File        5  passed\n3. CPU                  0  some tests failed"}
+{"grade": 15, "output": "Exercise            Grade  Message\n----------------  -------  -----------------\n1. ALU                  5  passed\n2. Register File        5  passed\n3. CPU                  5  some tests failed"}
